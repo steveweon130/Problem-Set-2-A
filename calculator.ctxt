@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=calculator
+comment0.text=\ Steve\ Weon\r\n\ \ Sept\ 29,\ 2021\r\n\ \ Problem\ Set\ 2-A\r\n
+comment1.params=a\ b\ c
+comment1.target=double\ QuadraticFormula1(double,\ double,\ double)
+comment2.params=a\ b\ c
+comment2.target=double\ QuadraticFormula2(double,\ double,\ double)
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ SlopeFormula(double,\ double,\ double,\ double)
+comment4.params=x1\ x2\ y1\ y2
+comment4.target=double\ MidPointFormulaX(double,\ double,\ double,\ double)
+comment5.params=x1\ x2\ y1\ y2
+comment5.target=double\ MidPointFormulaY(double,\ double,\ double,\ double)
+comment6.params=nAri\ a1Ari\ d
+comment6.target=double\ SumArithSeries(int,\ double,\ double)
+comment7.params=nGeo\ a1Geo\ r
+comment7.target=double\ SumFiniteGeoSeries(int,\ double,\ double)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
